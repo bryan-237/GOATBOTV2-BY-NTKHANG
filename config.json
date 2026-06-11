@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "griffithzein@gmail.com",
-    "password": "Marianbot2024",
+    "email": "ntsabrayan4@gmail.com",
+    "password": "BRYAN😍😈",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100095208485891",
+    "61581453916589",
     ""
   ],
   "whiteListMode": {
@@ -26,7 +26,7 @@
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "Toji",
-  "ownerlink": "https://www.facebook.com/RavennMaster",
+  "ownerlink": "https://www.facebook.com/bryansabin",
   "prefix": "/",
   "database": {
     "type": "sqlite",
